@@ -33,11 +33,11 @@ body {
 }
 
 .CodeMirror {
-    width: 100%;
-    height: calc(100vh - 66px);
+    /* width: 100%; */
+    height: calc(100vh - 115px);
     /* border: 1px solid #5f5da2; */
     font-size: 1.2em;
-    border-radius: 0px;
+    /* border-radius: 0px; */
 }
 
 iframe {
